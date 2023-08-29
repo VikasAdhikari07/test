@@ -1,5 +1,0 @@
-{{#user}}
-Name: Vikas Adhikari
-Skills: Python, Java, C/C++, Machine Learning
-Email: vikasadhikari067@gmail.com
-{{/user}}
